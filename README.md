@@ -1,6 +1,6 @@
 # Cut_optimization
 
-[Verschnittoptimierung App](https://dein-streamlit-deployment-link.streamlit.app)
+[Verschnittoptimierung App](https://cutoptimization-5xppzsdgqhrbwwg6btmyjz.streamlit.app/)
 
 Dies ist eine 1D-Verschnittoptimierungs-App in Python, basierend auf Streamlit.
 Sie nutzt ein einfaches First-Fit-Decreasing-Verfahren und berücksichtigt eine konstante Schnittbreite pro Teil.
